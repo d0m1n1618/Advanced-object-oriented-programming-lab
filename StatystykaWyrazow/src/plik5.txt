@@ -1,0 +1,3 @@
+W jaki sposób najłatwiej dowiedzieć się, jakiego rodzaju umiejętności będą wymagane przez pracodawców na danym stanowisku? Wystarczy zapoznać się z ofertami pracy, a szczególnie z sekcją Wymagania. – Czasy się zmieniają i ogłoszenia też. Kiedyś wymagana była Java + J2EE, potem Java + Spring a teraz już dodatkowo chmura i microservices – powiedział nam Michał Kuna, Associate Manager w Accenture Polska.
+
+Damian Jagodziński z kolei dodaje, że oprócz znajomości Javy, warto znać frameworki Spring czy Hibernat. – Znajomość SQLa stała się wymogiem wręcz oczywistym – dodał. W wielu ogłoszeniach w sekcji Tech stack znajdziemy także znajomość AWS, Rest Services, JUnit Spring Boota, Kotlina czy CI/CD.

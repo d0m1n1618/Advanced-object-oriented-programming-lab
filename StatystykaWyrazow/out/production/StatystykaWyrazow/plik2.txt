@@ -1,0 +1,3 @@
+Java od lat jest w czołówce najbardziej popularnych języków programowania. W ubiegłym roku według danych Stack Overflow ponownie został “wypchnięty” z drugiego miejsca na rzecz Pythona, który uplasował się zaraz za JavaScriptem. Inny raport – przygotowany przez TIOBE i aktualizowany miesiąc do miesiąca – także wskazuje Javę jako trzeci najbardziej popularny język programowania. Warto zaznaczyć, że to badanie opiera się na liczbie linijek kodu, a nie na tym, który język jest najlepszy.
+
+Powyższe raporty nie zmieniają jednak faktu, że Java jest nadal popularnym językiem programowania, z którym przyszłość wiąże wiele klientów, firm i programistów. Dlatego postanowiliśmy przybliżyć Wam, czym jest ten język.

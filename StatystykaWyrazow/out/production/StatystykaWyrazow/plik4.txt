@@ -1,0 +1,5 @@
+Wśród najczęściej stosowanych frameworków Javy znajdziemy:
+
+Spring – framework stosowany do skracania czasu tworzenia aplikacji. Zachowując najlepsze praktyki pisania aplikacji, przyspiesza proces, ale też wspiera w utrzymaniu czystego kodu. Popularność tego frameworka przyniosła narzędzie Spring Boot, określane mianem “frameworka do frameworka”.
+Hibernate – wedle definicji to biblioteka wykorzystywana do mapowania obiektowo-relacyjnego w Javie. Użyjemy jej więc do komunikacji z bazami danych i pozwoli rozwiązać kluczowe problemy z tym związane.
+Struts – framework wykorzystywany do tworzenia aplikacji webowych, ale także do optymalizacji procesów projektowania oraz uproszczenia utrzymania. Struts pozwala także na prostsze testowanie kodu.

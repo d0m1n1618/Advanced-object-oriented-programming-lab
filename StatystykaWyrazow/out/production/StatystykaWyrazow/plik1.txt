@@ -1,0 +1,3 @@
+Początek istnienia języka programowania Java datuje się na rok 1991, kiedy to Patrick Naughton, James Gosling oraz Mike Sheridan postanowili stworzyć prosty język mający możliwość uruchamiania na różnych platformach. Pierwotnie język został zaprojektowany na potrzeby telewizji interaktywnej, ale technologia przytłoczyła ówczesną branżę.
+
+Pierwsza publiczna implementacja Javy ujrzała światło dzienne jako Java 1.0 dopiero w 1996 roku. Co ciekawe, rok później Sun Microsystems – ówczesny właściciel Javy – nawiązał współpracę z polską firmą Altkom. Jej celem było uruchomienie kursów programowania w Javie
