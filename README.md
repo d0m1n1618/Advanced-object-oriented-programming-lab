@@ -1,1 +1,0 @@
-# Advanced-obiect-oriented-programming-lab
