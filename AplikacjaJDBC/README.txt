@@ -1,0 +1,1 @@
+Aplikacja JDBC do zarządzania projektami
